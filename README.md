@@ -12,7 +12,7 @@ Este proyecto es una implementación simple de un conversor de temperaturas de C
 
 Este proyecto convierte temperaturas de Celsius a Fahrenheit utilizando la fórmula estándar:
 
-\[ F = C \times \frac{9}{5} + 32 \]
+\[ F = C * 9/5 + 32 \]
 
 Está basado en el enfoque **TDD**, lo que significa que se escriben las pruebas primero, y luego el código se desarrolla para pasar esas pruebas. Esto asegura una implementación sólida y fácil de mantener.
 
@@ -25,5 +25,5 @@ Está basado en el enfoque **TDD**, lo que significa que se escriben las pruebas
 
 ## Tecnologías utilizadas
 
-- **Python**: Lenguaje principal utilizado para la implementación.
-- **unittest**: Framework de pruebas de Python utilizado para verificar la funcionalidad.
+- **Python**: Lenguaje utilizado para la implementación.
+- **unittest**: Framework de pruebas utilizado para verificar la funcionalidad.
